@@ -42,13 +42,12 @@ These example inputs were checked with the saved model in this project. They dem
 Model predictions are for demonstration and should not be treated as proof that a transaction is fraudulent or legitimate.
 
 ## Screenshots
-
-
-
+<img width="989" height="741" alt="image" src="https://github.com/user-attachments/assets/b34fefb7-d5c8-4d40-9a75-140c93dea15a" />
+The User interface
 ### Web app
-
-
-
-
+<img width="953" height="732" alt="image" src="https://github.com/user-attachments/assets/8d0559ba-55ef-4050-8905-cdbdb73177fe" />
+A transaction that is legit
+<img width="819" height="729" alt="image" src="https://github.com/user-attachments/assets/55600796-9f68-48cf-8f00-f8b65c64e922" />
+A transaction that may be Fraud
 ### Transaction prediction test
 
