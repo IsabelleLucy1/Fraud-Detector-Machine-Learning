@@ -1,0 +1,2 @@
+Transaction Type,Amount,Old Balance (Sender),New Balance (Sender),Old Balance (Receiver),New Balance (Receiver),Prediction,timestamp
+PAYMENT,1000,10000,9000,0,0,,2026-10-28 23:09:02.982680
